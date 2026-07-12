@@ -31,6 +31,13 @@ AI-Resume-Analyzer/
 ├── README.md
 └── .gitignore
 
+## 📸 Project Screenshots
+
+### Resume Upload and Job Description
+![AI Resume Analyzer - Upload Page](Screenshot%202026-07-12%20103256.png)
+
+### Resume Analysis Results
+![AI Resume Analyzer - Results](Screenshot%202026-07-12%20103315.png)
 ## 🎯 How It Works
 
 1. The user uploads a resume in PDF format.
